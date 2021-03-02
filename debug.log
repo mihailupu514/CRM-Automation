@@ -1,0 +1,22 @@
+[1231/001219.687:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1231/012644.373:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1231/132851.049:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1231/134413.865:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1231/135906.822:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1231/144316.921:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1231/153109.264:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1231/153724.732:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0102/033045.832:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0102/033204.048:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0102/033538.375:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0102/034037.837:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0102/205330.178:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0102/225044.045:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0102/225703.734:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0103/004119.022:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0103/010351.195:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0103/010729.613:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0103/021707.756:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0103/021726.599:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0106/203805.081:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0
+[0113/084939.682:ERROR:file_io.cc(90)] ReadExactly: expected 36, observed 0

@@ -1,0 +1,62 @@
+{
+  "name": "ProiectRPA",
+  "description": "Blank Process",
+  "main": "PrimireMail.xaml",
+  "dependencies": {
+    "UiPath": "[20.12.7654.25299-preview]",
+    "UiPath.Citrix.Activities": "[1.0.6]",
+    "UiPath.Excel.Activities": "[2.10.0-preview]",
+    "UiPath.Mail.Activities": "[1.10.0-preview]",
+    "UiPath.System.Activities": "[20.10.1]",
+    "UiPath.UIAutomation.Activities": "[20.12.0-preview]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "20.10.2.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "isPausable": true,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "DeschidereApptivo.xaml",
+      "uniqueId": "7d22f577-fb17-4515-8261-8e0b571a99dc",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "PrimireMail.xaml",
+      "uniqueId": "d6e8916a-1cbe-4309-925d-77ccaf2ed0b8",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {}
+}
